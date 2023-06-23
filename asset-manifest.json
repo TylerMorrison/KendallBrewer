@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KendallBrewer/static/css/main.75c446db.css",
+    "main.js": "/KendallBrewer/static/js/main.c675c2c9.js",
+    "static/js/787.11b6c8ad.chunk.js": "/KendallBrewer/static/js/787.11b6c8ad.chunk.js",
+    "index.html": "/KendallBrewer/index.html",
+    "main.75c446db.css.map": "/KendallBrewer/static/css/main.75c446db.css.map",
+    "main.c675c2c9.js.map": "/KendallBrewer/static/js/main.c675c2c9.js.map",
+    "787.11b6c8ad.chunk.js.map": "/KendallBrewer/static/js/787.11b6c8ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c446db.css",
+    "static/js/main.c675c2c9.js"
+  ]
+}
