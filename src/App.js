@@ -17,13 +17,13 @@ function App() {
     <Switch history={history}>
       <div className="container-fluid" style={{padding: '0px'}}>
         <NavBar />
-        <Route path="/" exact component={AppDesign} />
+        <Route path="/KendallBrewer/" exact component={AppDesign} />
         {/* <Route path="/board" exact component={Board} />
           <Route path="/facts" exact component={Facts} />
           <Route path="/login" exact component={LogIn} />
           <Route path="/add" exact component={AddEvent} />
           <Route path="/edit/:id" exact component={EditEvent} /> */}
-        <Route render={() => <Redirect to="/" />} />
+        <Route render={() => <Redirect to="/KendallBrewer/" />} />
       </div>
     </Switch>
   );
